@@ -72,6 +72,8 @@ body {
     width: 50%;
     height: 25px;
     border-radius: 17px;
+    background-color: pink;
+    color: white;
 }
 
 #timer-box {
